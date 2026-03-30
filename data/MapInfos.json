@@ -1,6 +1,5 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Hutan","order":1,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
-{"id":2,"expanded":true,"name":"InsideHouse1","order":2,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456},
-{"id":3,"expanded":true,"name":"Desa","order":3,"parentId":0,"scrollX":893.4545454545455,"scrollY":498.54545454545456}
+{"id":1,"expanded":false,"name":"Hutan","order":1,"parentId":0,"scrollX":982.8,"scrollY":548.4},
+{"id":2,"expanded":true,"name":"InsideHouse1","order":2,"parentId":0,"scrollX":982.8,"scrollY":548.4}
 ]
