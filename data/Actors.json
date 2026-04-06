@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"DevilMayCry1","characterIndex":0,"characterName":"WalkDMC","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"FaceDMC","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vergil","nickname":"","note":"","profile":""},
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"People1","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"People1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Vergil","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"DevilMayCry2","characterIndex":1,"characterName":"WalkDMC","classId":2,"equips":[2,1,2,3,0],"faceIndex":1,"faceName":"FaceDMC","traits":[],"initialLevel":1,"maxLevel":99,"name":"Achi","nickname":"","note":"","profile":""},
 {"id":3,"battlerName":"Npcwak","characterIndex":0,"characterName":"WalkNPC","classId":4,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"FaceDMC","traits":[],"initialLevel":1,"maxLevel":99,"name":"Abel","nickname":"","note":"","profile":""}
 ]
