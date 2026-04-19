@@ -1,9 +1,10 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Desa","order":1,"parentId":0,"scrollX":802,"scrollY":492},
-{"id":2,"expanded":true,"name":"InsideHouse1","order":2,"parentId":1,"scrollX":810,"scrollY":448},
-{"id":3,"expanded":true,"name":"InsideHouse2","order":3,"parentId":1,"scrollX":810,"scrollY":448},
-{"id":4,"expanded":false,"name":"Pasar","order":5,"parentId":0,"scrollX":810,"scrollY":448},
-{"id":5,"expanded":false,"name":"InsideHouse3","order":4,"parentId":1,"scrollX":810,"scrollY":448},
-{"id":6,"expanded":false,"name":"Hutan","order":6,"parentId":0,"scrollX":802,"scrollY":468.5}
+{"id":1,"expanded":true,"name":"Desa","order":1,"parentId":0,"scrollX":811,"scrollY":688},
+{"id":2,"expanded":true,"name":"InsideHouse1","order":2,"parentId":1,"scrollX":819,"scrollY":508},
+{"id":3,"expanded":true,"name":"InsideHouse2","order":3,"parentId":1,"scrollX":819,"scrollY":508},
+{"id":4,"expanded":false,"name":"Pasar","order":5,"parentId":0,"scrollX":819,"scrollY":508},
+{"id":5,"expanded":false,"name":"InsideHouse3","order":4,"parentId":1,"scrollX":819,"scrollY":508},
+{"id":6,"expanded":false,"name":"Hutan terlarang","order":7,"parentId":7,"scrollX":819,"scrollY":508},
+{"id":7,"expanded":true,"name":"Stasiun","order":6,"parentId":0,"scrollX":819,"scrollY":508}
 ]
