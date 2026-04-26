@@ -1,0 +1,24 @@
+<quest 1: Membeli sayur ke pasar|1|0>
+Beli 3 ikat sayur, cari kayu dan jual, Berikan ke ibu
+
+Ibu menyuruh kita untuk membeli 
+sayur 3 ikat di pasar
+
+Cari kayu untuk uang pulang pergi 
+ke pasar
+</quest>
+
+<quest 2: Menanam bibit|1|1>
+Tanam bibit, jual hasil panen
+
+Kamu sudah membelikan ibu sayur.
+sekarang tanam bibit untuk dijual
+</quest>
+
+<quest 3: Menyelamatkan putri|1|0>
+Cari party member, selamatkan putri, kalahkan boss
+
+Putri telah di culik oleh
+sekumpulan monster. Kita
+diminta untuk menyelamatkannya.
+</quest>

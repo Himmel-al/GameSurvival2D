@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"Desa","order":1,"parentId":0,"scrollX":811,"scrollY":692},
+{"id":1,"expanded":true,"name":"Desa","order":1,"parentId":0,"scrollX":811,"scrollY":692},
 {"id":2,"expanded":true,"name":"InsideHouse1","order":2,"parentId":1,"scrollX":819,"scrollY":508},
 {"id":3,"expanded":true,"name":"InsideHouse2","order":3,"parentId":1,"scrollX":819,"scrollY":508},
 {"id":4,"expanded":false,"name":"Pasar","order":5,"parentId":0,"scrollX":819,"scrollY":508},
